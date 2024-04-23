@@ -1,5 +1,5 @@
 # Lot zadanie testowe 1
-Repozytorium z rozwiązaniem do zadania branżowego
+Repozytorium z rozwiązaniem do zadania branżowego. Program zamienia pliki JSON z podanego folderu w pliki XML i zapisuje je w drugim podanym folderze.
 
 Plik json2xml_KG.py należy odpalić poleceniem:
 
